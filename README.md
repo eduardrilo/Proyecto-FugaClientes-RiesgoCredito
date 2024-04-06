@@ -7,4 +7,4 @@ Paso 2: Limpieza y tratamiento de las inconsistencias y valores nulos.
 
 Paso 3: Transformación de datos, en las cuales se agrupan variables redudantes y se corrige las asimetrias en al distribución con una transformación de boxcox. 
 
-Paso 4: Dar sentido matematico a las variables y realizando una seleccion de atributos donde se descartan variables inutiles, dedundantes y se dejan las de mayor relevancia 
+Paso 4: Dar sentido matematico a las variables y realizando una seleccion de atributos donde se descartan variables inutiles, redundantes y se dejan las de mayor relevancia.
